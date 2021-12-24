@@ -3,7 +3,7 @@
 <h1>I'm DANILO BRITO</h1>
 </div>
 <div>
-<p style="text-align: justify;"><em><strong>Full stack web developer (Laravel, php, html, css, vuejs, jquery, javascript) with experience in microservices and e-commerce development. Programmer passionate about games and new technologies, he is always looking for new knowledge.</strong></em></p>
+<p style="text-align: justify;"><em><strong>Full stack web developer with experience in microservices and e-commerce development. Programmer passionate about games and new technologies, he is always looking for new knowledge.</strong></em></p>
 </div>
 <div style="display: inline_block;">&nbsp;</div>
 <div style="display: inline_block;">&nbsp;</div>
