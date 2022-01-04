@@ -9,7 +9,7 @@
 <div style="display: inline_block;">&nbsp;</div>
 <div style="display: inline_block;"><a href="https://github.com/danilobol"> <img src="https://github-readme-stats.vercel.app/api?username=danilobol&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" height="180em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobol&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" height="180em" /> </a></div>
 <div style="display: inline_block;">
-<h2>Technologies:<br /> <img src="https://tm.ibxk.com.br/2021/08/25/25005108362009.jpg" alt="Th-Js" width="100" height="50" align="center" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1200px-Unity_Technologies_logo.svg.png" alt="Th-Js" width="90" height="30" align="center" /> <img src="https://miro.medium.com/max/2000/1*ACR0gj0wbx91V_xgURifWg.png" alt="Th-Js" width="110" height="60" align="center" /> <img src="https://miro.medium.com/max/1400/0*YYimU29xUrOcvh8m." alt="Th-React" width="100" height="50" align="center" /> <img src="https://storage.googleapis.com/hcode-public-storage/images/PHP-8/PHP8_DEFAULT_HCODE.png" alt="Th-HTML" width="100" height="70" align="center" /> <img src="https://img.mandic.com.br/blog/2015/01/homepage-docker-logo.png" alt="Th-HTML" width="70" height="50" align="center" /> <img src="https://miro.medium.com/max/1400/0*otsfLuH8efGUeedm.png" alt="Th-HTML" width="100" height="30" align="center" /></h2>
+</h2>
 </div>
 <div>
 <h2>Social networks</h2>
